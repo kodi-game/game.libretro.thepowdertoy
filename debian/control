@@ -1,0 +1,17 @@
+Source: kodi-game-libretro-thepowdertoy
+Priority: extra
+Maintainer: wsnipex <wsnipex@a1.net>
+Build-Depends: debhelper (>= 9.0.0),
+               cmake,
+               kodi-addon-dev,
+               thepowdertoy (>= 92.5.336)
+Standards-Version: 3.9.8
+Section: libs
+
+Package: kodi-game-libretro-thepowdertoy
+Section: libs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
+Enhances: kodi
+Description: The Powder Toy core for kodi's retroplayer
+ The Powder Toy core for kodi's retroplayer
