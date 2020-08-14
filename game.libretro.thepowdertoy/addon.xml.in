@@ -2,7 +2,7 @@
 <addon id="game.libretro.thepowdertoy"
 		name="The Powder Toy"
 		version="92.5.336.3"
-		provider-name="Libretro">
+		provider-name="jselby, Original TPT Contributors">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 	</requires>
