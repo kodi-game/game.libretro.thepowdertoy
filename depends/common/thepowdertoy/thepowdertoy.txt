@@ -1,1 +1,1 @@
-thepowdertoy https://github.com/libretro/ThePowderToy/archive/c45c2dd844f9b44d47203daec334d3df02809b35.zip
+thepowdertoy https://github.com/libretro/ThePowderToy/archive/f7efa0f631a8b7e5d93e0c6ae78e78eb86444b6f.zip
