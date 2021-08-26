@@ -18,6 +18,6 @@
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.thepowdertoy</source>
 		<summary lang="en_GB">The Powder Toy 92.5.336</summary>
-		<description lang="en_GB">The Powder Toy is a desktop version of the classic &#39;falling sand&#39; physics game. It simulates air pressure and velocity as well as heat!</description>
+		<description lang="en_GB">The Powder Toy is a desktop version of the classic &#39;falling sand&#39; physics sandbox game. It simulates air pressure and velocity as well as heat!</description>
 	</extension>
 </addon>
