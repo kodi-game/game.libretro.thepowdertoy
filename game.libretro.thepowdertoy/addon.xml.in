@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.thepowdertoy"
 		name="The Powder Toy"
-		version="92.5.336.11"
+		version="92.5.336.12"
 		provider-name="jselby, Original TPT Contributors">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -12,6 +12,7 @@
 		<extensions>cps</extensions>
 		<supports_vfs>true</supports_vfs>
 		<supports_standalone>true</supports_standalone>
+		<requires_opengl>false</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>GPLv3</license>
