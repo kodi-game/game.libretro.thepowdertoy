@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.thepowdertoy"
 		name="The Powder Toy"
-		version="92.5.336.12"
+		version="92.5.336.13"
 		provider-name="jselby, Original TPT Contributors">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -19,7 +19,7 @@
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.thepowdertoy</source>
 		<summary lang="en_GB">The Powder Toy 92.5.336</summary>
-		<description lang="en_GB">The Powder Toy is a desktop version of the classic &#39;falling sand&#39; physics game. It simulates air pressure and velocity as well as heat!</description>
-		<description lang="ko_KR">파우더 토이는 클래식 &#39;떨어지는 모래&#39;의 데스크탑 버전입니다. 물리학 게임. 이것은 열뿐만 아니라 기압과 속도를 시뮬레이션합니다!</description>
+		<description lang="en_GB">The Powder Toy is a desktop version of the classic &amp;#39;falling sand&amp;#39; physics game. It simulates air pressure and velocity as well as heat!</description>
+		<description lang="ko_KR">파우더 토이는 클래식 &amp;#39;떨어지는 모래&amp;#39;의 데스크탑 버전입니다. 물리학 게임. 이것은 열뿐만 아니라 기압과 속도를 시뮬레이션합니다!</description>
 	</extension>
 </addon>
