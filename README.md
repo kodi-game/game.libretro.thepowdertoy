@@ -5,7 +5,7 @@
 
 ### Description
 
-The Powder Toy is a desktop version of the classic "falling sand" physics game. It simulates air pressure and velocity as well as heat!
+The Powder Toy is a desktop version of the classic falling sand physics game. It simulates air pressure and velocity as well as heat!
 
 ### License
 
