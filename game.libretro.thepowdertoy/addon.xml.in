@@ -20,7 +20,7 @@
 		<source>https://github.com/kodi-game/game.libretro.thepowdertoy</source>
 		<summary lang="en_GB">The Powder Toy 92.5.336</summary>
 		<description lang="da_DK">The Powder Toy er en desktopversion af det klassiske fysikspil &quot;faldende sand&quot;. Det simulerer lufttryk og hastighed samt varme!</description>
-		<description lang="en_GB">The Powder Toy is a desktop version of the classic falling sand physics game. It simulates air pressure and velocity as well as heat!</description>
+		<description lang="en_GB">The Powder Toy is a desktop version of the classic &quot;falling sand&quot; physics game. It simulates air pressure and velocity as well as heat!</description>
 		<description lang="ko_KR">파우더 토이는 클래식 &apos;떨어지는 모래&apos;의 데스크탑 버전입니다. 물리학 게임. 이것은 열뿐만 아니라 기압과 속도를 시뮬레이션합니다!</description>
 	</extension>
 </addon>
