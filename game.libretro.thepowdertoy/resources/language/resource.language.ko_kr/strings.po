@@ -22,5 +22,5 @@ msgid "The Powder Toy 92.5.336"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "The Powder Toy is a desktop version of the classic falling sand physics game. It simulates air pressure and velocity as well as heat!"
+msgid "The Powder Toy is a desktop version of the classic \"falling sand\" physics game. It simulates air pressure and velocity as well as heat!"
 msgstr "파우더 토이는 클래식 &#39;떨어지는 모래&#39;의 데스크탑 버전입니다. 물리학 게임. 이것은 열뿐만 아니라 기압과 속도를 시뮬레이션합니다!"
