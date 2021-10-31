@@ -1,1 +1,1 @@
-thepowdertoy https://github.com/libretro/ThePowderToy/archive/0ff547e89ae9d6475b0226db76832daf03eec937.tar.gz
+thepowdertoy https://github.com/libretro/ThePowderToy/archive/ac620c0a89a18774c3ad176a8a1bc596df23ff57.tar.gz
