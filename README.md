@@ -13,7 +13,7 @@ GPLv3
 
 ### Icon
 
-![Icon](game.libretro.thepowdertoy/resources/icon.png)
+![The Powder Toy icon](game.libretro.thepowdertoy/resources/icon.png)
 
 ### Fanart
 
