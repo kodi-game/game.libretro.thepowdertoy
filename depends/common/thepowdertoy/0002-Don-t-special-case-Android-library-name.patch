@@ -1,0 +1,25 @@
+From 7cab95ed5ac3f08aa5423f362b74506eac492cbe Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Thu, 26 Jan 2023 14:35:23 -0800
+Subject: [PATCH 2/2] Don't special-case Android library name
+
+---
+ src/CMakeLists.txt | 5 -----
+ 1 file changed, 5 deletions(-)
+
+diff --git a/src/CMakeLists.txt b/src/CMakeLists.txt
+index a7236f2..24134cd 100644
+--- a/src/CMakeLists.txt
++++ b/src/CMakeLists.txt
+@@ -564,8 +564,3 @@ if(IOS)
+ endif()
+ 
+ set_target_properties(thepowdertoy_libretro PROPERTIES PREFIX "")
+-
+-if(CMAKE_SYSTEM_NAME MATCHES "^(Android)$")
+-    # LibRetro expects Android artifacts to end with '_android'
+-    set_target_properties(thepowdertoy_libretro PROPERTIES SUFFIX "_android.so")
+-endif()
+-- 
+2.34.1
+
