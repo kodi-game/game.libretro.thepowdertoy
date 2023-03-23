@@ -1,1 +1,1 @@
-thepowdertoy https://github.com/kodi-game/ThePowderToy/archive/15cfeec41c5ed6488b9b14ec5c1fd5bc4d8207e9.tar.gz
+thepowdertoy https://github.com/kodi-game/ThePowderToy/archive/561574410ec504a4c3a8fdb88f51358c92929237.tar.gz
