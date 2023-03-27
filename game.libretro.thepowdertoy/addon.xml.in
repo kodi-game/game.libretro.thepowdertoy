@@ -27,7 +27,7 @@
 		<description lang="de_DE">Das Powder Toy ist eine Desktop-Version des klassischen Physikspiels &quot;Fallender Sand&quot;. Es simuliert sowohl Luftdruck und -geschwindigkeit als auch Wärme!</description>
 		<description lang="en_GB">The Powder Toy is a desktop version of the classic &quot;falling sand&quot; physics game. It simulates air pressure and velocity as well as heat!</description>
 		<description lang="es_ES">The Powder Toy es una versión de sobremesa del clásico juego de física &quot;falling sand&quot;. Simula la presión y la velocidad del aire, ¡así como el calor!</description>
-		<description lang="ko_KR">파우더 토이는 클래식 \&apos;떨어지는 모래\&apos;의 데스크탑 버전입니다. 물리학 게임. 이것은 열뿐만 아니라 기압과 속도를 시뮬레이션합니다!</description>
+		<description lang="ko_KR">파우더 토이는 클래식 &apos;떨어지는 모래&apos;의 데스크탑 버전입니다. 물리학 게임. 이것은 열뿐만 아니라 기압과 속도를 시뮬레이션합니다!</description>
 		<description lang="zh_CN">The Powder Toy 是经典的“落沙”物理游戏的桌面版。它模拟气压和速度以及热量！</description>
 	</extension>
 </addon>
