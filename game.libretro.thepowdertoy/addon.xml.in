@@ -21,6 +21,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">The Powder Toy</summary>
 		<summary lang="en_GB">The Powder Toy</summary>
 		<summary lang="es_ES">The Powder Toy</summary>
 		<description lang="da_DK">The Powder Toy er en desktopversion af det klassiske fysikspil &quot;faldende sand&quot;. Det simulerer lufttryk og hastighed samt varme!</description>
